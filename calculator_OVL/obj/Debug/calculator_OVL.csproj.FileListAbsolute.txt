@@ -1,0 +1,9 @@
+c:\users\supachai\documents\visual studio 2015\Projects\calculator_OVL\calculator_OVL\bin\Debug\calculator_OVL.exe.config
+c:\users\supachai\documents\visual studio 2015\Projects\calculator_OVL\calculator_OVL\obj\Debug\calculator_OVL.csprojResolveAssemblyReference.cache
+c:\users\supachai\documents\visual studio 2015\Projects\calculator_OVL\calculator_OVL\obj\Debug\calculator_OVL.Form1.resources
+c:\users\supachai\documents\visual studio 2015\Projects\calculator_OVL\calculator_OVL\obj\Debug\calculator_OVL.Properties.Resources.resources
+c:\users\supachai\documents\visual studio 2015\Projects\calculator_OVL\calculator_OVL\obj\Debug\calculator_OVL.csproj.GenerateResource.Cache
+C:\Users\Supachai\Documents\Visual Studio 2015\Projects\calculator_OVL\calculator_OVL\bin\Debug\calculator_OVL.exe
+C:\Users\Supachai\Documents\Visual Studio 2015\Projects\calculator_OVL\calculator_OVL\bin\Debug\calculator_OVL.pdb
+C:\Users\Supachai\Documents\Visual Studio 2015\Projects\calculator_OVL\calculator_OVL\obj\Debug\calculator_OVL.exe
+C:\Users\Supachai\Documents\Visual Studio 2015\Projects\calculator_OVL\calculator_OVL\obj\Debug\calculator_OVL.pdb
